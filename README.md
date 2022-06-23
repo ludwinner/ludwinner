@@ -1,16 +1,18 @@
-### Hi there 👋
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS, .Net, C#],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux","Angular"],
+         css: ["Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         C#: ["Asp.net Core"],
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
 
-<!--
-**ludwinner/ludwinner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
